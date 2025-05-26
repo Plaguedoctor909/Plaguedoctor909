@@ -21,8 +21,8 @@
 - 🧠 `BrainDump` – A personal knowledge base powered by AI  
 
 📫 **Let's Connect:**  
-- Portfolio: [yourwebsite.dev](https://yourwebsite.dev)  
+- Portfolio: coming soon
 - LinkedIn: [linkedin.com/in/yourhandle](https://linkedin.com/in/yourhandle)  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+
 ⚡ *Fun Fact:* I write code like it’s poetry, debug like it’s an escape room, and deploy like it's the final boss battle.
 Want something more tailored to your exact vibe or tech stack? Let me know!

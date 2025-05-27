@@ -28,4 +28,4 @@
 Want something more tailored to your exact vibe or tech stack? Let me know!
 
 **Account analytics**
-[account](https://github-readme-stats.vercel.app/api?username=Plaguedoctor909&show_icons=true&theme=radical)
+![account](https://github-readme-stats.vercel.app/api?username=Plaguedoctor909&show_icons=true&theme=radical)

@@ -22,5 +22,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-**Account analytics**
-![account](https://github-readme-stats.vercel.app/api?username=Plaguedoctor909&show_icons=true&theme=radical)

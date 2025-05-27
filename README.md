@@ -22,7 +22,10 @@
 
 📫 **Let's Connect:**  
 - Portfolio: coming soon
-- LinkedIn: [linkedin.com/in/yourhandle](https://linkedin.com/in/yourhandle)  
+- LinkedIn: [linkedin.com/in/yourhandle](https://www.linkedin.com/in/iwinosa-ozigbo-48705a2b0/)  
 
 ⚡ *Fun Fact:* I write code like it’s poetry, debug like it’s an escape room, and deploy like it's the final boss battle.
 Want something more tailored to your exact vibe or tech stack? Let me know!
+
+**Account analytics**
+[account](https://github.com/0din-glitch/<repo>/graphs/commit-activity)
